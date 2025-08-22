@@ -1,0 +1,19 @@
+# Core
+streamlit==1.37.0
+transformers==4.44.2
+torch==2.4.1
+sentencepiece==0.2.0
+protobuf==5.27.3
+
+# PDF & Web Parsing
+pypdf==5.1.0
+PyPDF2==3.0.1
+beautifulsoup4==4.12.3
+requests==2.32.3
+
+# Text-to-Speech
+gTTS==2.5.4
+
+# Optional (for extra NLP tricks)
+sentence-transformers==3.0.1
+sumy==0.11.0
