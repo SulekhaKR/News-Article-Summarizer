@@ -17,6 +17,3 @@ gTTS
 # Optional (for extra NLP tricks)
 sentence-transformers
 sumy
-
-
-
