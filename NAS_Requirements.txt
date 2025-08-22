@@ -1,7 +1,7 @@
 # Core
 streamlit==1.37.0
-transformers==4.44.2
-torch==2.4.1
+transformers==4.42.0
+torch==2.3.1
 sentencepiece==0.2.0
 protobuf==5.27.3
 
@@ -17,3 +17,4 @@ gTTS==2.5.4
 # Optional (for extra NLP tricks)
 sentence-transformers==3.0.1
 sumy==0.11.0
+
